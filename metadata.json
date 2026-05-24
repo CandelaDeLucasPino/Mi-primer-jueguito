@@ -1,0 +1,6 @@
+{
+  "name": "Plataformero Retro & Supabase",
+  "description": "Un juego de plataformas retro estilo Mario Bros con inicio de sesión, sincronización en tiempo real de niveles y estadísticas con Supabase, tablas de clasificación y un dashboard de estadísticas para cada jugador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
